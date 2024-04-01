@@ -8,7 +8,7 @@ The below list of programs show the usage of basic DataStructures and Agorithms 
 |-------|------------------|---------------|
 | 1 | Array Operations | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/Array_operations.cpp) |
 | 2 | Sring Operations | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/string_operations.cpp) |
-| 3 | Stack Operations | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/stack_operations.cpp) |
+| 3 | Stack Operations | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/stack_operation.cpp) |
 | 4 | Infix to Postfix | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/infix_to_postfix.cpp) |
 | 5 | Evaluation of Postfix | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/evaluation_of_pofix.cpp) |
 | 6 | Recurrsion TOH | [view code](https://github.com/RanjanRaj07/dsa_lab_programs/blob/main/tower_of_Hannoi.cpp) |
